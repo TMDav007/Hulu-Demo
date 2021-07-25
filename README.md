@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
- This orject is a demp of Hulu. Hulu is a leading premium streaming service offering live and on-demand TV and movies . It displays the genres or categories of movies
+ This project is a demo of Hulu. Hulu is a leading premium streaming service offering live and on-demand TV and movies . It displays the genres or categories of movies
+ <img width="1356" alt="Screenshot 2021-07-25 at 03 01 46" src="https://user-images.githubusercontent.com/24706493/126885364-02171ab5-f816-40bc-a145-e22296343c81.png">
 ## Getting Started
 
 First, run the development server:
@@ -17,6 +18,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 -Next js
 -Tailwind css
+
+## Application Images
+
+Desktop view
+<img width="1356" alt="Screenshot 2021-07-25 at 03 01 46" src="https://user-images.githubusercontent.com/24706493/126885364-02171ab5-f816-40bc-a145-e22296343c81.png">
+
+
+Mobile view
+<img width="366" alt="Screenshot 2021-07-25 at 03 02 44" src="https://user-images.githubusercontent.com/24706493/126885369-ef06901c-12e4-4fa6-a718-347accbd3fc0.png">
+
 
 ## Deploy on Vercel
 
